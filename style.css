@@ -126,8 +126,8 @@ a{
     margin-bottom: 20px;
 }
 
-/* Portfolio Section */
-#portfolio{
+/* Hobbies Section */
+#hobbies{
     display: flex;
     flex-direction: column;
     background-color: rgba(10, 10, 10, 0.9);
